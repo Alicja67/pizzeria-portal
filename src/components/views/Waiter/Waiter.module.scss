@@ -1,0 +1,15 @@
+@import '../../../styles/settings.scss';
+
+.component {
+  padding: $base-size;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+}
