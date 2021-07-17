@@ -14,3 +14,14 @@
   flex-direction: column;
 }
 
+.statusTitle {
+  color: rgb(32, 122, 77);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tableHead {
+  text-align: center;
+}

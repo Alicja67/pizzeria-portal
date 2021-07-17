@@ -21,7 +21,7 @@
     -po kliknięciu rezerwacji lub eventu, przechodzimy na stronę szczegółów
 `/tables/booking/:id`
   -zawiera wszystkie informacje dot. rezerwacji
-  -umożliwiaedycję i zapisanie zian
+  -umożliwia edycję i zapisanie zmian
 `/tables/booking/new`
   -jw, bez początkowych informacji
 `/tables/events/:id`
