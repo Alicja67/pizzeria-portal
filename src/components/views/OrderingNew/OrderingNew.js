@@ -131,7 +131,7 @@ const OrderingNew = () => {
             ))}
           </Select>
         </FormControl>
-        <Button variant="contained">Confirm order</Button>
+        <Button variant="contained" color="primary">Confirm order</Button>
       </form>
     </Paper>
   );
